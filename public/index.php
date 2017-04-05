@@ -136,9 +136,11 @@
 	foreach ($top as $key => $film) {
 		$price = $film['im:price']['label'];		
 		echo $price." ";
-		//pas fini 
-	}
 
+	}
+	//pas fini
+	
+	
 
 	?>
 </body>
